@@ -1,0 +1,4 @@
+services:
+#    casa_user.example:
+#        class: casa\UserBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
